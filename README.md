@@ -7,7 +7,7 @@ The results of our analysis are below, but you can see our story on Tableau Publ
 
 ## Resources
 Data Source: 2019-citibike-tripdata.csv, 2019-citibike-tripdata-new.csv
-Software Used: Tableau Public, Virtual Studio Code v1.60.2
+Software Used: Tableau Public, Visual Studio Code v1.60.2
 
 ## Analysis
 
